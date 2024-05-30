@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/check": "^0.7.0",
     "@astrojs/cloudflare": "^10.2.6",
+    "@astrojs/vercel": "^7.6.0",
     "@aws-amplify/ui-react": "^6.1.12",
     "astro": "^4.4.11",
     "astro-aws-amplify": "^0.1.0",
